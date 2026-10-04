@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Mpfly
+# https://github.com/Senzdetta/Mpfly
 
 require 'utils/invalid_option'
 require 'utils/alias_utils/list_aliases'
@@ -37,4 +37,4 @@ module Alias
     end
 end
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

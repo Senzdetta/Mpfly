@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Mpfly
+# https://github.com/Senzdetta/Mpfly
 
 require 'shellwords'
 require 'utils/color'
@@ -110,4 +110,4 @@ module DownloadUtils
     end
 end
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

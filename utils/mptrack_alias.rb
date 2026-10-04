@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Mpfly
+# https://github.com/Senzdetta/Mpfly
 
 module MptrackAlias
     def self.execute(file_path, alias_name)
@@ -25,4 +25,4 @@ module MptrackAlias
     end
 end
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

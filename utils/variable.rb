@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Mpfly
+# https://github.com/Senzdetta/Mpfly
 
 module Variable
     def Prefix
@@ -23,4 +23,4 @@ module Variable
     )
 end
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

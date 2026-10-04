@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Mpfly
+# https://github.com/Senzdetta/Mpfly
 
 require 'utils/color'
 require 'utils/invalid_option'
@@ -31,4 +31,4 @@ module History
     end
 end
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

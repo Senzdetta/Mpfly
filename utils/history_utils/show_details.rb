@@ -1,4 +1,4 @@
-# https://github.com/Zeronetsec/Mpfly
+# https://github.com/Senzdetta/Mpfly
 
 require 'utils/color'
 require 'utils/history_utils/read_data'
@@ -70,4 +70,4 @@ module HistoryUtils
     end
 end
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

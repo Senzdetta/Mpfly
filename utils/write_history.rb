@@ -1,4 +1,4 @@
-# utils/write_history.rb
+# https://github.com/Senzdetta/Mpfly
 
 require 'fileutils'
 require 'utils/variable'
@@ -33,4 +33,4 @@ module WriteHistory
     end
 end
 
-# Copyright (c) 2026 Zeronetsec
+# Copyright (c) 2026 Senzdetta

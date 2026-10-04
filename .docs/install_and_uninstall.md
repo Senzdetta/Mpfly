@@ -7,7 +7,7 @@
 
 ### Usage
 ```bash
-git clone https://github.com/Zeronetsec/Mpfly
+git clone https://github.com/Senzdetta/Mpfly
 bash Mpfly/install.sh <option>
 ```
 
