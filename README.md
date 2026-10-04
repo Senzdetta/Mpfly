@@ -1,5 +1,3 @@
-<!-- https://github.com/Zeronetsec/Mpfly -->
-
 <div align="center">
     <img src="https://img.shields.io/badge/Mpfly-Version%200.1-blue?style=square&logo=ruby&logoColor=red&v=1" />
     <img src="https://img.shields.io/badge/Supported%20OS-Linux-blue?style=square&logo=linux&v=1" />
@@ -40,5 +38,3 @@ mpfly --convert myplaylist.m3u --to json --out mpfly_playlist.json
 mpfly --download @myalias --compress auto --out download/
 ```
 And more commands.
-
-<!-- Copyright (c) 2026 Zeronetsec -->

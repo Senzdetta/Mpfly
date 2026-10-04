@@ -1,5 +1,3 @@
-<!-- https://github.com/Zeronetsec/Mpfly -->
-
 # Installation
 `install.sh` optional options (can be used together):
 - `--home=<path>`
@@ -27,5 +25,3 @@ bash Mpfly/install.sh <option>
 export prefix="${PREFIX:-/usr}"
 bash $prefix/opt/mpfly/uninstall.sh <option>
 ```
-
-<!-- Copyright (c) 2026 Zeronetsec -->
