@@ -39,6 +39,7 @@ include : '(
     .install/symlink
     .install/zsymlink
     .install/extern/privdat
+    .install/extern/set_shebang
 )'
 
 HOME="${HOME}"

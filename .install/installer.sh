@@ -1,4 +1,6 @@
 function install::installer() {
+    install::extern::setShebang
+
     if [[ ! -d "${HOME}/.mpfly" ]]; then
         install::getinstall \
             "command mkdir -p ${HOME}/.mpfly" \
