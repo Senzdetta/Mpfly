@@ -5,7 +5,7 @@ require 'utils/color'
 module Version
     def self.execute(*)
         name = "Mpfly".freeze
-        version = "v0.1.20261007".freeze
+        version = "v0.1.20261008".freeze
         developer = "Senzdetta".freeze
         homepage = "https://github.com/Senzdetta/Mpfly".freeze
 
