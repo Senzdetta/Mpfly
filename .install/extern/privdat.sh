@@ -15,7 +15,7 @@ function install::extern::privdat() {
                 "Create directory: ${color_GG}${HOME}/.config/mpv${color_N}"
         fi
 
-        command mapfile -t mpvcfg < <(
+        builtin mapfile -t mpvcfg < <(
             command ls "${root}/.privdat/mpv/" \
                 --color=never \
                 2>/dev/null
